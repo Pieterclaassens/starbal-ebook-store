@@ -1,0 +1,8 @@
+{
+  "name": "Remix Omnishelf — AI eBook Store & PayPal Downloads",
+  "description": "Curated digital eBook bookstore with interactive AI sample reader, PayPal Smart Buttons checkout, instant test simulator, and secure tokenized file fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
